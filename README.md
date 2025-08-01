@@ -36,7 +36,7 @@ AI-powered storyboard generator that creates visual narratives by intelligently 
 
 5. **Run the application**
    ```bash
-   python llm-story3.py
+   python llm-story-board.py
    ```
 
 6. **Open your browser**
