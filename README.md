@@ -133,3 +133,6 @@ The application provides:
 - Loading animations during processing
 - Visual storyboard with images and descriptions
 - Error handling with retry options
+
+<img width="1919" height="1871" alt="Screenshot 2025-08-01 at 14-05-07 LLM Storyboard Generator" src="https://github.com/user-attachments/assets/00986c67-09b2-40ad-a2fc-2143c6d586c2" />
+
